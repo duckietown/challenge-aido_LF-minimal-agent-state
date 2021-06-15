@@ -1,0 +1,4 @@
+node: aido_agents.StateAgent
+protocol: aido_schemas.protocol_agent_DB20_onlystate
+config: {}
+
