@@ -1,5 +1,6 @@
 # challenge name(s); defaults to all compatible challenges
-# challenge: [c1,c2]
+challenge:
+- aido-LF*state*
 
 # conventions + format
 protocol: aido5-db20-state-z2
@@ -7,4 +8,3 @@ protocol: aido5-db20-state-z2
 user-label: "minimal-agent-state"
 # any JSON payload
 user-payload: {}
-
